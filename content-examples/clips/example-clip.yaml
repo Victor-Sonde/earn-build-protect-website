@@ -1,0 +1,10 @@
+title: Example clip title
+status: published
+clipType: clip
+description: EXAMPLE ONLY. One sentence on what this clip covers.
+publishDate: 2026-01-02
+durationMinutes: 1
+url: https://www.youtube.com/watch?v=EXAMPLE
+pillars:
+  - protect
+topics: []

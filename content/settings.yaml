@@ -1,0 +1,18 @@
+platforms: {}
+host:
+  name: ''
+  role: ''
+  bio: ''
+founderBio: ''
+regulatoryDisclosure: ''
+protectionReview:
+  enabled: true
+  heading: Protect
+  body: >-
+    If you'd like to speak with Victor professionally about this area, his
+    adviser work is separate and regulated. Details are on his adviser page.
+  buttonLabel: Go to Victor's adviser page
+  url: https://tavistockprotect.com/adviser/oluwatosin-victor-sonde/
+  secondaryLabel: Book a time with Victor's adviser practice
+  secondaryUrl: https://calendly.com/growwithvictorsonde/30min
+  disclosure: Nothing from this check is sent anywhere when you follow these links.
