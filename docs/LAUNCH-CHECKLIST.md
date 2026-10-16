@@ -29,7 +29,8 @@
       the registration number to the privacy policy
 - [ ] Compliance reviewer to see the "Adviser services are separate" section of the terms
 - [ ] Confirm the transfer safeguards named in the privacy policy against each provider's terms
-- [ ] Confirm that hello@earnbuildprotect.com exists and is monitored
+- [ ] Victor's written agreement to publishing earnbuildprotect@gmail.com on the legal pages in place
+      of hello@earnbuildprotect.com, which does not exist. Confirm the Gmail inbox is monitored
 - [ ] Confirm that no cookie banner is needed, as part of that review
 
 ## Configuration

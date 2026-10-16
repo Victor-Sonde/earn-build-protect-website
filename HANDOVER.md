@@ -54,7 +54,7 @@ Victor has confirmed each of these. Treat them as settled.
 | Adviser section | Live on the Financial Resilience Check page, using the wording approved for the Check application, with two links: the adviser page and the Calendly booking page |
 | Legal pages | Privacy policy, cookie policy and terms approved by Victor, 11 October 2026 |
 | Legal entity | Victor Sonde, trading as Earn.Build.Protect |
-| Contact address | `hello@earnbuildprotect.com`, hosted on Google |
+| Contact address | `earnbuildprotect@gmail.com` (Gmail). No mailbox exists on the domain. Changed from `hello@earnbuildprotect.com`, pending Victor's written agreement |
 | Retention | Contact enquiries kept 24 months |
 
 ## 4. Do not change without Victor's written agreement
@@ -108,7 +108,7 @@ pages, so redeploy after changing them.
 | `NEXT_PUBLIC_SITE_URL` | `https://www.earnbuildprotect.com` | Now |
 | `NEXT_PUBLIC_ASSESSMENT_URL` | The confirmed Check address | Step 7 |
 | `RESEND_API_KEY` | From Resend | Step 6 |
-| `CONTACT_TO_EMAIL` | `hello@earnbuildprotect.com` | Step 6 |
+| `CONTACT_TO_EMAIL` | `earnbuildprotect@gmail.com` | Step 6 |
 | `CONTACT_FROM_EMAIL` | `Earn.Build.Protect <website@earnbuildprotect.com>` | Step 6 |
 | `NEXT_PUBLIC_TURNSTILE_SITE_KEY` and `TURNSTILE_SECRET_KEY` | From Cloudflare | Step 8 |
 | `NEXT_PUBLIC_ALLOW_INDEXING` | `true`, Production only | Step 11, on Victor's go-ahead |
@@ -124,7 +124,7 @@ Share keys with Victor through a password manager, never through Notion, Slack, 
 
 ### Step 6: Email
 
-1. Confirm `hello@earnbuildprotect.com` receives mail. A custom domain address needs Google Workspace or a forwarding rule. Check with Victor which is in place
+1. Enquiries go to `earnbuildprotect@gmail.com`, which is also the address published on the legal pages. Resend sends from `website@earnbuildprotect.com`, which needs no mailbox. Do not add MX records for the domain unless a mailbox or forwarding is set up later
 2. Create a Resend account and verify `earnbuildprotect.com` by adding the DNS records it lists
 3. Set the three contact variables and redeploy
 4. Send a real message through the live contact form and confirm it arrives, with reply-to set to the sender

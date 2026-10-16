@@ -89,7 +89,7 @@ export type PlatformKey = keyof typeof platformLabels;
 export const legal = {
   /** The legal person responsible for the website. Replace with the registered company name and number if one is formed. */
   entity: 'Victor Sonde, trading as Earn.Build.Protect',
-  contactEmail: 'hello@earnbuildprotect.com',
+  contactEmail: 'earnbuildprotect@gmail.com',
   /** How long contact form enquiries are kept after the last message in the conversation. */
   enquiryRetention: '24 months',
   governingLaw: 'England and Wales',
